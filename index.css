@@ -1,63 +1,66 @@
 body{
-   background-image: linear-gradient(to right, blue, royalblue);
+   background-image: linear-gradient(to right, orange, red);
 }
 
 #h11 {
 	margin : 25px 50px ;
 	padding : 25px 50px ;
-	color : orange ;
+	color : blue ;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 250%;
 	text-align: center;
-   text-shadow: 1px 1px 1px red ;
+   text-shadow: 1px 1px 4px red ;
 }
 
 #p1{
-	color : orange;
+	color : blue;
    text-shadow: 1px 1px 1px;
    font-size: large;
 }
 #p2{
-	color : orange;
+	color : blue;
    text-shadow: 1px 1px 1px ;
 }
 #p3{
-	color : orange;
+	color : blue;
    text-shadow: 1px 1px 1px ;
 }
 
 #ah32{
    font-family: Verdana, Geneva, Tahoma, sans-serif;
-   color : orange;
+   color : blue;
    text-shadow: 1px 1px 1px ;
    font-size: 160%;
 }
 #h31{
-   font-family: Verdana, Geneva, Tahoma, sans-serif;  color : orange;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;  color : blue;
    text-shadow: 1px 1px 1px red;
    font-size: 160%;
+
 }
 #h32{
-   font-family: Verdana, Geneva, Tahoma, sans-serif;  color : orange;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;  color : blue;
    text-shadow: 1px 1px 1px red;
    font-size: 160%;
+
 }
 h2{
    font-family: Verdana, Geneva, Tahoma, sans-serif;
-   color : orange;
+   color : blue;
    text-shadow: 1px 1px 1px red ; font-size: 160%;
+
 }
 #ah31{
-   color : orange;
+   color : blue;
    text-shadow: 1px 1px 1px;
 }
 #ah32{
-   color : orange;
-   text-shadow: 1px 1px 1px;
+   color : blue;
+   text-shadow:1px 1px 1px;
    font-size: small;
 }
 #ah31img{
-   width: 80px;
+   width: 90px;
 }
 #ah32img{
    width: 65px;
