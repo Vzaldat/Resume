@@ -1,12 +1,64 @@
-h1 {
-   margin : 25px 50px ;
-   padding : 25px 50px ;
-   color :rgb(148, 182, 94) ;
-   font-family: 'Courier New', Courier, monospace;
-   font-size: 300%;
-}
 body{
-	margin :20px 40px;
-	padding : 20px, 40px;
-	background-color: brown;
+   background-image: linear-gradient(to right, blue, royalblue);
+}
+
+#h11 {
+	margin : 25px 50px ;
+	padding : 25px 50px ;
+	color : orange ;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 250%;
+	text-align: center;
+   text-shadow: 1px 1px 1px red ;
+}
+
+#p1{
+	color : orange;
+   text-shadow: 1px 1px 1px;
+   font-size: large;
+}
+#p2{
+	color : orange;
+   text-shadow: 1px 1px 1px ;
+}
+#p3{
+	color : orange;
+   text-shadow: 1px 1px 1px ;
+}
+
+#ah32{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color : orange;
+   text-shadow: 1px 1px 1px ;
+   font-size: 160%;
+}
+#h31{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;  color : orange;
+   text-shadow: 1px 1px 1px red;
+   font-size: 160%;
+}
+#h32{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;  color : orange;
+   text-shadow: 1px 1px 1px red;
+   font-size: 160%;
+}
+h2{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color : orange;
+   text-shadow: 1px 1px 1px red ; font-size: 160%;
+}
+#ah31{
+   color : orange;
+   text-shadow: 1px 1px 1px;
+}
+#ah32{
+   color : orange;
+   text-shadow: 1px 1px 1px;
+   font-size: small;
+}
+#ah31img{
+   width: 80px;
+}
+#ah32img{
+   width: 65px;
 }
